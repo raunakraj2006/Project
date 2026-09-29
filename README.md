@@ -1,7 +1,7 @@
 # Project
 This is my project for VITyarthi.
 <br>
-I made a Student Grade management system.
+I made a To-Do List program.
 # My Python Project
 
 ## Requirements
